@@ -1,7 +1,7 @@
 - 👋 Hi, I’m George
 - 👀 I’m interested in anything and everything, but particularly music and audio web tools
-- 🌱 I’m currently learning JS full stack processes via React, Express, Node, and Mongo at Coder Academy
-- 💞️ I’m looking to collaborate on anything ! I have a background in professional music performance, production, and sound engineering so if you need any perspectives from that area hit me up! 
+- 🌱 I’m currently learning JS full stack processes via React, Express, Node, and Mongo
+- 💞️ I’m looking to collaborate! I have a background in professional music performance, production, and sound engineering so if you need any perspectives from that area hit me up! 
 - 📫 email: george.sheridan@gmail.com
 
 <!---
